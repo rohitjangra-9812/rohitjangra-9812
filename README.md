@@ -58,3 +58,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjangra-9812&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitjangra-9812&color=blue&style=flat-square" alt="Profile View Counter" />
+</p>
