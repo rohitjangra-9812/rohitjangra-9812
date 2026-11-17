@@ -66,3 +66,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitjangra-9812&color=blue&style=flat-square" alt="Profile View Counter" />
 </p>
+<h1 align="center">Hi there 👋, I'm Rohit Jangra</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB¢er=true&vCenter=true&width=500&height=50&lines=Software+Engineer+%26+Full-Stack+Dev;Founder+of+SwiftPay+Gateway;Cyber+Security+Intervention+Officer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+</p>
